@@ -49,7 +49,7 @@ COM727_EverestChatbot/
 If using Git:
 
 ```bash
-git clone https://github.com/your-username/COM727_EverestChatbot.git
+git clone https://github.com/0ansam43/COM727_AE2_EverestChatbot-
 cd COM727_EverestChatbot
 ```
 
